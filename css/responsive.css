@@ -48,6 +48,11 @@ col-3 p{
   }
 }
 
-/*@@media (min-width:700px) {
-
-}*/
+@media (min-width:700px) {
+#navbar a{
+  display: none;
+}
+a.menu-icon{
+  visibility: visible;
+}
+}
