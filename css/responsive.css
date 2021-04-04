@@ -51,8 +51,9 @@ col-3 p{
 @media (max-width:700px) {
 nav a{
   display: none;
+  visibility: hidden;
 }
-a.menu-icon{
+.menu-icon{
   visibility: visible;
 }
 #logo h1{
