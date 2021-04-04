@@ -55,4 +55,11 @@ col-3 p{
 a.menu-icon{
   visibility: visible;
 }
+#logo h1{
+  display: none;
+}
+#logo h2{
+  display: none;
+}
+
 }
